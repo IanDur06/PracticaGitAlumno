@@ -4,7 +4,7 @@
 Practicar el control de versiones con Git y GitHub.
 
 ## Autor
-Nombre del alumno.
+Ian Alberto Duran Rosiles
 
 ## Aprendizajes
 - Crear un repositorio local.
